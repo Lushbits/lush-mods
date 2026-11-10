@@ -1,8 +1,8 @@
 {
   "updater": {
-    "version": "0.1.0",
-    "url": "https://github.com/Lushbits/lush-mods/releases/download/updater-v0.1.0/LushUpdater.exe",
-    "sha256": "a277549cb8287d1f0c49c2de63301190fff90498da2c72e1b5942ca8f53fb134"
+    "version": "0.2.0",
+    "url": "https://github.com/Lushbits/lush-mods/releases/download/updater-v0.2.0/LushUpdater.exe",
+    "sha256": "d93f9228461b892b18b594db375092a95599becb9381ce2507491507857dc5e5"
   },
   "addons": [
     {
