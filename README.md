@@ -18,7 +18,7 @@ If the app can't find your game, click **Change** and pick your World of Warcraf
 ### If Windows Defender removes it
 
 The app is new and unsigned, so Defender sometimes guesses wrong and deletes it. Open
-**Windows Security â†’ Virus & threat protection â†’ Protection history**, open the LushUpdater
+**Windows Security > Virus & threat protection > Protection history**, open the LushUpdater
 entry, choose **Allow**, then download it again.
 
 ### Updating the app
