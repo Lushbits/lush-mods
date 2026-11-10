@@ -20,12 +20,12 @@
       "id": "LushKOS",
       "title": "Lush KOS",
       "notes": "A kill-on-sight list shared with your friends and guild. Right-click an enemy's portrait or type /lkos to add them; you get a sound, an alert and a skull on their nameplate when they're near.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folders": [
         "LushKOS"
       ],
-      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushKOS-1.0.0-914e2fe7/LushKOS-1.0.0.zip",
-      "sha256": "914e2fe70b199d40ad81d5024e972acd1dfe2e14005226a591c00a73edb8d601"
+      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushKOS-1.0.1-94b09845/LushKOS-1.0.1.zip",
+      "sha256": "94b09845b7d4d62f595a66a1791985ea0f8c5afbaf78b8cf2a60d857a434ee85"
     },
     {
       "id": "LushCatEnergy",
