@@ -37,17 +37,6 @@
       ],
       "url": "https://github.com/Lushbits/lush-mods/releases/download/LushCatEnergy-1.1.0-11012208/LushCatEnergy-1.1.0.zip",
       "sha256": "11012208c8daf8f8582e74de5d438afd9f582889f476f26acc72c559fee20745"
-    },
-    {
-      "id": "LushEasyExperienceBar",
-      "title": "Lush Easy Experience Bar",
-      "notes": "Experience Tracking Bar",
-      "version": "2026.11.03.A",
-      "folders": [
-        "LushEasyExperienceBar"
-      ],
-      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushEasyExperienceBar-2026.11.03.A-f8ff4fd3/LushEasyExperienceBar-2026.11.03.A.zip",
-      "sha256": "f8ff4fd3c4ab0625a0b57a33e57ca485abf957b37ac30ea91626fb1812e9fe5b"
     }
   ]
 }
