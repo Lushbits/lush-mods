@@ -18,14 +18,14 @@ If the app can't find your game, click **Change** and pick your World of Warcraf
 ### If Windows Defender removes it
 
 The app is new and unsigned, so Defender sometimes guesses wrong and deletes it. Open
-**Windows Security → Virus & threat protection → Protection history**, open the LushUpdater
+**Windows Security â†’ Virus & threat protection â†’ Protection history**, open the LushUpdater
 entry, choose **Allow**, then download it again.
 
 ### Updating the app
 
 Addons update on their own. The app itself does not: when a new version is out, its window
-shows a card with a **Download** button. Run the exe you downloaded and it takes over from
-the old one, which you can then delete.
+shows a card with a **Download** button. Run the exe you downloaded: it takes over from
+the old one and deletes it.
 
 ## What's in this repo
 
