@@ -9,12 +9,12 @@
       "id": "LushFriends",
       "title": "Lush Friends",
       "notes": "A small list of the friends you pick: their level, white while online, grey while offline. Give anyone a nickname.",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "folders": [
         "LushFriends"
       ],
-      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushFriends-1.1.0-da133bea/LushFriends-1.1.0.zip",
-      "sha256": "da133bea8bbef35488256ad111e43584c1961029f3d908d61e5f52a505375898"
+      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushFriends-1.1.1-4a66bd0f/LushFriends-1.1.1.zip",
+      "sha256": "4a66bd0fc1c9881590ecbfc5e44691685f1708cdf92297fd7c58d5b0032460d0"
     },
     {
       "id": "LushKOS",
@@ -30,13 +30,13 @@
     {
       "id": "LushCatEnergy",
       "title": "Lush Cat Energy",
-      "notes": "Druid power bars: your form's resource big on top, the others under it. Energy marks each ability's cost; Mana shows the five-second rule.",
-      "version": "1.1.0",
+      "notes": "Druid power bars: your form's resource big on top, the others under it. Energy marks each ability's cost; Mana shows the five-second rule; combo points on screen and on nameplates.",
+      "version": "1.2.0",
       "folders": [
         "LushCatEnergy"
       ],
-      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushCatEnergy-1.1.0-11012208/LushCatEnergy-1.1.0.zip",
-      "sha256": "11012208c8daf8f8582e74de5d438afd9f582889f476f26acc72c559fee20745"
+      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushCatEnergy-1.2.0-d4055516/LushCatEnergy-1.2.0.zip",
+      "sha256": "d40555160bbd29231f582fb21f0a1e3e1613358f40cd3b40268256d9d43938c7"
     },
     {
       "id": "LushClams",
