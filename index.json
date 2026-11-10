@@ -37,6 +37,17 @@
       ],
       "url": "https://github.com/Lushbits/lush-mods/releases/download/LushCatEnergy-1.1.0-11012208/LushCatEnergy-1.1.0.zip",
       "sha256": "11012208c8daf8f8582e74de5d438afd9f582889f476f26acc72c559fee20745"
+    },
+    {
+      "id": "LushClams",
+      "title": "Lush Clams",
+      "notes": "Opens clams for you as soon as they land in your bags. You choose which items it opens: type /clams for the list.",
+      "version": "1.0.0",
+      "folders": [
+        "LushClams"
+      ],
+      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushClams-1.0.0-29bbd47b/LushClams-1.0.0.zip",
+      "sha256": "29bbd47b7fc230bdfa4ef25ce0a7199479fa28fca9ff199244fcf377d8967a86"
     }
   ]
 }
