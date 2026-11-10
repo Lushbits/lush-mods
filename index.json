@@ -9,12 +9,12 @@
       "id": "LushFriends",
       "title": "Lush Friends",
       "notes": "A small list of the friends you pick: their level, white while online, grey while offline. Give anyone a nickname.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "folders": [
         "LushFriends"
       ],
-      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushFriends-1.0.0-4114a093/LushFriends-1.0.0.zip",
-      "sha256": "4114a0933b245f7f88a3fe06075bb6514dd69315e0902220bba8de31e4f26680"
+      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushFriends-1.1.0-da133bea/LushFriends-1.1.0.zip",
+      "sha256": "da133bea8bbef35488256ad111e43584c1961029f3d908d61e5f52a505375898"
     },
     {
       "id": "LushKOS",
