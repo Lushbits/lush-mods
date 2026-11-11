@@ -9,23 +9,23 @@
       "id": "LushFriends",
       "title": "Lush Friends",
       "notes": "A small list of the friends you pick: their level, white while online, grey while offline. Give anyone a nickname.",
-      "version": "1.1.1",
+      "version": "1.2.0",
       "folders": [
         "LushFriends"
       ],
-      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushFriends-1.1.1-4a66bd0f/LushFriends-1.1.1.zip",
-      "sha256": "4a66bd0fc1c9881590ecbfc5e44691685f1708cdf92297fd7c58d5b0032460d0"
+      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushFriends-1.2.0-7b4f9b93/LushFriends-1.2.0.zip",
+      "sha256": "7b4f9b93e7e72926f7da83ddc1b6ebcb31eef0efd1f919e8eded00cca677bac4"
     },
     {
       "id": "LushKOS",
       "title": "Lush KOS",
       "notes": "A kill-on-sight list shared with your friends and guild. Right-click an enemy's portrait or type /lkos to add them; you get a sound, an alert and a skull on their nameplate when they're near.",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "folders": [
         "LushKOS"
       ],
-      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushKOS-1.1.0-d280ea5b/LushKOS-1.1.0.zip",
-      "sha256": "d280ea5be91fc4310eb00cc15a7882e5491cb208194ecb0fa40a75e53bdf56d3"
+      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushKOS-1.2.0-2fc2a51b/LushKOS-1.2.0.zip",
+      "sha256": "2fc2a51bf4623f8aa7988ddcf924c1e6e81525e9889370ecc85513bc73369a85"
     },
     {
       "id": "LushCatEnergy",
