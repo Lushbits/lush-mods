@@ -9,12 +9,12 @@
       "id": "LushFriends",
       "title": "Lush Friends",
       "notes": "A small list of the friends you pick: their level, white while online, grey while offline. Give anyone a nickname.",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "folders": [
         "LushFriends"
       ],
-      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushFriends-1.2.0-7b4f9b93/LushFriends-1.2.0.zip",
-      "sha256": "7b4f9b93e7e72926f7da83ddc1b6ebcb31eef0efd1f919e8eded00cca677bac4"
+      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushFriends-1.2.1-829a004c/LushFriends-1.2.1.zip",
+      "sha256": "829a004c78d290d0955c6c2d5f3c2cf298d60be02f7037d54643d11aad8488c8"
     },
     {
       "id": "LushKOS",
@@ -24,8 +24,8 @@
       "folders": [
         "LushKOS"
       ],
-      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushKOS-1.3.1-08fab20f/LushKOS-1.3.1.zip",
-      "sha256": "08fab20fa1928a625de31fbe6ea417463b2ce159ea399cf3aada5ad34f159764"
+      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushKOS-1.3.1-11711d5e/LushKOS-1.3.1.zip",
+      "sha256": "11711d5ea80cfba886d522019bd2e52ee370ad72fb37518a35d6414d2c02709c"
     },
     {
       "id": "LushCatEnergy",
