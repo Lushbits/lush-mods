@@ -53,12 +53,12 @@
       "id": "LushTactics",
       "title": "Lush Tactics",
       "notes": "A book of boss tactics and drops for every Forever dungeon and raid, with quick buttons that post a one-line tactic to your group. Type /tactics.",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "folders": [
         "LushTactics"
       ],
-      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushTactics-1.2.0-b93cf29b/LushTactics-1.2.0.zip",
-      "sha256": "b93cf29b43c790ae65dfedac1197899bfecc14c50d9fc20a73faf7e0ef7e3fa1"
+      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushTactics-1.2.1-932e5b0b/LushTactics-1.2.1.zip",
+      "sha256": "932e5b0b74a33a02ec924b517ecc0e8ffc951c30ab2c9d0250467e4b983d41c5"
     }
   ]
 }
