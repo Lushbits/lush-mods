@@ -42,12 +42,12 @@
       "id": "LushClams",
       "title": "Lush Clams",
       "notes": "Opens clams for you as soon as they land in your bags. You choose which items it opens: type /clams for the list.",
-      "version": "1.0.2",
+      "version": "1.1.0",
       "folders": [
         "LushClams"
       ],
-      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushClams-1.0.2-7d27af88/LushClams-1.0.2.zip",
-      "sha256": "7d27af88a174e4e51c2e1d7d77076443c2c11fd309f4ba3b2dc7ac0406f41fad"
+      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushClams-1.1.0-2444bd71/LushClams-1.1.0.zip",
+      "sha256": "2444bd718ee2a4dcd150970eb847fdbe3c070a961066e88e4f0dc6da90055022"
     },
     {
       "id": "LushTactics",
