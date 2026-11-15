@@ -59,6 +59,17 @@
       ],
       "url": "https://github.com/Lushbits/lush-mods/releases/download/LushTactics-1.2.2-bde12b07/LushTactics-1.2.2.zip",
       "sha256": "bde12b07d994c96805dc98e649e8b91483195e4ab876a7de7c371548399f7388"
+    },
+    {
+      "id": "LushQoL",
+      "title": "Lush QoL",
+      "notes": "Small quality of life things in one place, each switched on by you: a flight timer bar, a compact talent window, and clam opening (Lush Clams lives here now). Type /lqol.",
+      "version": "1.0.0",
+      "folders": [
+        "LushQoL"
+      ],
+      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushQoL-1.0.0-ac606d11/LushQoL-1.0.0.zip",
+      "sha256": "ac606d114099db7000ac8467c854e78d136540b0847236542536dfc24b856bbb"
     }
   ]
 }
