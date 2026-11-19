@@ -64,12 +64,12 @@
       "id": "LushQoL",
       "title": "Lush QoL",
       "notes": "Small quality of life things in one place, each switched on by you: a flight timer bar, a compact talent window with a gear set per spec, levelling enchants for your class, Lushoguesser (a map quiz), clam opening (Lush Clams lives here now) and Fishing Mode sound presets. Type /lqol.",
-      "version": "1.10.0",
+      "version": "1.10.1",
       "folders": [
         "LushQoL"
       ],
-      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushQoL-1.10.0-d18b54b3/LushQoL-1.10.0.zip",
-      "sha256": "d18b54b345f630cfc71c047beed5b025e7d8bb14b23d8667ef12f563e9f177e1"
+      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushQoL-1.10.1-5dd1933a/LushQoL-1.10.1.zip",
+      "sha256": "5dd1933ad68d590fa0efa589cb13903eaf1ee804b098e58dc176ea6382ba616f"
     }
   ]
 }
