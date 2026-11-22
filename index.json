@@ -75,12 +75,12 @@
       "id": "LushAVCommander",
       "title": "Lush AV Commander",
       "notes": "Tracks your Stormpike Guard (or Frostwolf) reputation run by run in Alterac Valley, estimates the runs and time left to Exalted, and gives you a panel of callouts to post to the battleground. Type /avc.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "folders": [
         "LushAVCommander"
       ],
-      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushAVCommander-1.0.0-28787616/LushAVCommander-1.0.0.zip",
-      "sha256": "28787616b4fdab69b2c85ce820b40a33a0bfe083817434a40418f40a0d80556c"
+      "url": "https://github.com/Lushbits/lush-mods/releases/download/LushAVCommander-1.0.1-353295c4/LushAVCommander-1.0.1.zip",
+      "sha256": "353295c459f5ea4a6065c65be59a6674fad214ee08b4fbe52a206e36061b9848"
     }
   ]
 }
